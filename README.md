@@ -1,6 +1,7 @@
 # windowsClear
 Do you dualboot windows/linux and often get confused between "clear" and "cls" ?
 
+### This ads the clear command to windows
 ### There might be a better way, but atleast it works!
 # Instructions 
 1. download the bat file above
